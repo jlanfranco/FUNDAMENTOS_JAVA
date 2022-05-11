@@ -12,6 +12,8 @@ package pe.lanfranco.app.model;
 public class Mensaje {
     
     private String mensaje;
+    
+    private String usuario;
 
     public Mensaje() {
     }
