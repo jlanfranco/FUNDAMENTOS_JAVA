@@ -13,8 +13,6 @@ public class Mensaje {
     
     private String mensaje;
     
-    private String nombre;
-    
     private String apellido;
 
     public Mensaje() {
