@@ -13,7 +13,9 @@ public class Mensaje {
     
     private String mensaje;
     
-    private String usuario;
+    private String nombre;
+    
+    private String apellido;
 
     public Mensaje() {
     }
